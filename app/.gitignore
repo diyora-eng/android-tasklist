@@ -1,0 +1,24 @@
+Gradle и Android Studio
+      *.iml
+      .gradle
+      /local.properties
+      /.idea/workspace.xml
+      /.idea/tasks.xml
+      /.idea/assetWizardSettings.xml
+      /.idea/modules.xml
+      /.idea/navigation.xml
+      /.idea/caches
+      /build
+      /*/build
+
+      # Локальные файлы конфигурации (содержат секреты и пути)
+      .DS_Store
+      /captures
+      .externalNativeBuild
+      .cxx
+
+    # Логи и временные файлы
+      *.log
+# Специфичные файлы Android Studio
+.navigation/
+captures/
